@@ -27,7 +27,7 @@ Row 4: NO, NO, NO, NO, NO, NO, NO, NO, NO
 
 1.  download QMK tool box   https://github.com/qmk/qmk_toolbox/releases
 1.  download Driver installation tool Zidig  https://drive.google.com/open?id=0B9XoYZuzpjWneGREWlBHRFlFbm8
-1.  Open zidig and installer driver (libusb-win32(v1.2.6.0))
+1.  Open zidig and install driver (libusb-win32(v1.2.6.0))
 1.  Open QMK Tool box
 1.  Select the hex file
 1.  Select the correct keyboard (DZ60)

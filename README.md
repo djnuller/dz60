@@ -32,6 +32,6 @@ Row 4: NO, NO, NO, NO, NO, NO, NO, NO, NO
 1.  Select the hex file
 1.  Select the correct keyboard (DZ60)
 1.  Click the RST button on the button of the keyboard.
-1.  Click flash
+1.  Click flash in QMK tool box
 
 Now you should have this layout installed on your keyboard

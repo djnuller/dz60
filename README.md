@@ -2,16 +2,24 @@
 
 ## layer 1
 Row 1: ESC, 1, 2, 3, 4, 5, 6, 7, 8, 9, 0, +, ´, backspace
+
 Row 2: Tab, Q, W, E, R, T, Y, U, I, O, P, Å, ¨, enter
-Row 3: Caps, A, S, D, F, G, H, J, K, L, Æ, Ø, ', enter,
+
+Row 3: Caps, A, S, D, F, G, H, J, K, L, Æ, Ø, ', enter
+
 Row 4: Lshift, <>, Z, X, C, V, B, N, M, ,, ., -, rshift, up, del
+
 Row 5: ctrl, win, alt,      space     , fn, altgr, left, down, right
 
 ## layer 2
 Row 1: ½, F1, F2, F3, F4, F5, F6, F7, F8, F9, F10, F11, F12
+
 Row 2: NO, LED, LED, LED, LED, LED, NO, NO, NO, NO, NO, NO, NO
+
 Row 3: NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO
+
 Row 4: NO, NO, LED, LED, LED, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO
+
 Row 4: NO, NO, NO, NO, NO, NO, NO, NO, NO
 
 
